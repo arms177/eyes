@@ -31,3 +31,8 @@ body {
   transform: translate(-50%, -50%);
   border-radius: 50%;
 }
+.link {
+  text-decoration: none;
+  color: white;
+  margin-bottom: 20px;
+}
