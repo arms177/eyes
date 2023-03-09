@@ -31,6 +31,9 @@ body {
   transform: translate(-50%, -50%);
   border-radius: 50%;
 }
+.link-dev {
+  margin-bottom: 20ps
+}
 .link {
   text-decoration: none;
   color: white !important;
